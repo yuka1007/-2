@@ -371,13 +371,13 @@ body {
   top: 15%;
   left: 20%;
   background: #fff;
-  width: 40%;
+  width: 90%;
   padding: 5% 5%;
   box-sizing: border-box;
 }
 
 .service-content_inner-second {
-  left: 40%;
+  right: 40%;
 }
 
 .service-btn {
@@ -485,6 +485,11 @@ body {
   text-align: center;
 }
 
+.footer-logo {
+    margin: 0 auto;
+    color: #fff;
+  }
+
 .top-footer small {
   text-align: center;
   color: #fff;
@@ -532,8 +537,12 @@ body {
 
   .service-content_inner {
     display: block;
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
+  }
+
+  .faq-title {
+    font-size: 30px;
   }
 
   .service-img {
@@ -549,4 +558,6 @@ body {
     width: 100%;
     margin: 0 auto;
   }
+
+  
 }
